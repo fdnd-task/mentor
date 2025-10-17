@@ -22,10 +22,10 @@ Jouw taken bestaan uit:
 - Je bent een keer per week aanwezig op het afgesproken moment
 - Je stapt actief op 1e jaars studenten af om ze te helpen
 - Je luistert, vat samen en vraagt door bij het helpen van studenten
-- Je bereidt de workshop voor en helpt de studenten bij de opdracht die ze krijgen
+- Je bereidt de workshops voor en helpt de studenten bij de opdracht die ze krijgen
 - Je beantwoordt vragen over HTML, CSS en JS
 - Je doet code/design reviews op leertaken
-- Je geeft in feedback in issues van eerstejaars 
+- Je geeft feedback in issues van eerstejaars 
 - Optioneel: Als je het leuk vindt, mag je zelf een workshop of presentatie geven
 
 ## Definition of Done
